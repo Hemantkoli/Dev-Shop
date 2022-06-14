@@ -97,7 +97,7 @@ function Cart() {
 
             <div className="total">
                 <h3>Total: $ {total}</h3>
-                <button>Checkout</button>
+                <button className='checkout'>Checkout</button>
             </div>
         </div>
     )
